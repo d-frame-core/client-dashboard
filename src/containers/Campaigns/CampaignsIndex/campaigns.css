@@ -1,0 +1,44 @@
+.box{
+    background: white;
+    height:60vh; 
+    border-radius: 10px;
+}
+
+.button {
+    background-color: #47B5FF; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  table{
+    width:100%;
+  }
+  
+  thead{
+    background:#47B5FF;
+    color:white;
+    height:60px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  tbody{
+    border:solid 2px #47B5FF;
+  }
+
+
+
+  .create{
+    text-align: center;
+    margin-top: 25vh;
+    font-size: 30px;
+  }

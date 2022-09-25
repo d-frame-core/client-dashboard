@@ -1,0 +1,12 @@
+.box{
+    background: white;
+    height:80vh; 
+    border-radius: 10px;
+    align-content:flex;
+    flex-direction: column;
+}
+
+.info{
+    padding-top: 3%;
+    text-align: center;
+}

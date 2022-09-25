@@ -1,0 +1,96 @@
+
+.box{
+    height:65vh; 
+    border-radius: 10px;
+} 
+
+.boxes{
+    height :50%;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.dft{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    width:90%;
+    padding-bottom: 15px;
+    margin-left: 5%;
+}
+
+.addTag{
+    padding: 5px;
+    text-align: center;
+    width:80%;
+    margin-top: 8%;
+    margin-left: 5%;
+}
+
+.databox2{
+    width:100%;
+    height:30vh;
+    background: white;
+    margin:10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.databox4{
+    background: white;
+    border-radius: 5px;
+    padding:10px 20px;
+    text-align: center;
+}
+
+
+.inputs{
+    background-color: #DFF6FF;
+    border: 0.5px solid #1B3BE3;
+    height: 25px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.button {
+    background-color: #47B5FF; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .dataButton {
+    background-color: #47B5FF; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 10%;
+  }
+
+  .dataButton:focus {     
+    background-color:#CCCDCF;
+    color:black;
+    border:#1B3BE3 solid 2px;
+
+}
+
+  .dataButtons{
+    margin-bottom: 60px;
+    width:100%;
+  }

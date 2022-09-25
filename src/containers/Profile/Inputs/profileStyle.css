@@ -1,0 +1,40 @@
+.profilebox{
+    background: white;
+    height:65vh; 
+    border-radius: 10px;
+    align-content:flex;
+    flex-direction: column;
+    padding:20px;
+}
+
+.profilefield{
+    margin: 20px;
+}
+
+.profiletexts{
+    text-align: right;
+    font-size: 20px;
+}
+.profileinputs{
+    background-color: #DFF6FF;
+    border: 0.5px solid #1B3BE3;
+    height: 40px;
+    width: 60%;
+    margin-left: 5px;
+    border-radius: 5px;
+    padding: 0 20px;
+}
+
+.button {
+    background-color: #47B5FF; 
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
